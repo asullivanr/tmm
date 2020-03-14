@@ -1,5 +1,6 @@
 build/
 mods/
+.tmm
 
 *.o
 *.swp
